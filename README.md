@@ -1,6 +1,6 @@
 ## Parque Estadual Paulo César Vinha
  
-- Site dedicado a disciplina de Desenvolvimento Web que envolve um ponto turistivo favorito do aluno
+- Site dedicado a disciplina de Desenvolvimento Web que envolve um ponto turistico favorito do aluno
  
  
 ## Tecnologia
